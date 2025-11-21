@@ -34,7 +34,7 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 
 
 ## PROGRAM
-~~~
+~~~c
  #include <stdio.h>
  #include <string.h>
  void vigenereCipher(char *text, char *key, int decrypt) {
